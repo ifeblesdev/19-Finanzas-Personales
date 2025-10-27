@@ -1,4 +1,4 @@
-<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.25094.162" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.25095.00157">
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.25095.163" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.25095.00163">
   <Entities></Entities>
   <Roles></Roles>
   <Workflows></Workflows>
@@ -13,11 +13,11 @@
   <CanvasApps>
     <CanvasApp>
       <Name>new_iffinanzaspersonales_df241</Name>
-      <AppVersion>2025-10-24T16:02:11Z</AppVersion>
+      <AppVersion>2025-10-27T11:36:22Z</AppVersion>
       <Status>Ready</Status>
       <CreatedByClientVersion>3.25101.19.0</CreatedByClientVersion>
       <MinClientVersion>3.25101.19.0</MinClientVersion>
-      <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","showStatusBar":"false","publisherVersion":"3.25101.19","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20251023T191655Z-3.25095.13.0"}</Tags>
+      <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","showStatusBar":"false","publisherVersion":"3.25101.19","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20251024T160211Z-3.25101.19.0"}</Tags>
       <IsCdsUpgraded>0</IsCdsUpgraded>
       <GalleryItemId xsi:nil="true"></GalleryItemId>
       <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
