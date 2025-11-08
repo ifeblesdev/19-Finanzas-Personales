@@ -1,4 +1,4 @@
-<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.25095.163" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.25095.00163">
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.25101.155" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.25102.00161">
   <Entities></Entities>
   <Roles></Roles>
   <Workflows></Workflows>
@@ -13,11 +13,11 @@
   <CanvasApps>
     <CanvasApp>
       <Name>new_iffinanzaspersonales_df241</Name>
-      <AppVersion>2025-10-27T11:36:22Z</AppVersion>
+      <AppVersion>2025-11-08T14:57:48Z</AppVersion>
       <Status>Ready</Status>
-      <CreatedByClientVersion>3.25101.19.0</CreatedByClientVersion>
-      <MinClientVersion>3.25101.19.0</MinClientVersion>
-      <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","showStatusBar":"false","publisherVersion":"3.25101.19","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20251024T160211Z-3.25101.19.0"}</Tags>
+      <CreatedByClientVersion>3.25103.13.0</CreatedByClientVersion>
+      <MinClientVersion>3.25103.13.0</MinClientVersion>
+      <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","showStatusBar":"false","publisherVersion":"3.25103.13","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20251027T113622Z-3.25101.19.0"}</Tags>
       <IsCdsUpgraded>0</IsCdsUpgraded>
       <GalleryItemId xsi:nil="true"></GalleryItemId>
       <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
@@ -26,7 +26,7 @@
       <CommitMessage xsi:nil="true"></CommitMessage>
       <Publisher xsi:nil="true"></Publisher>
       <AuthorizationReferences>[]</AuthorizationReferences>
-      <ConnectionReferences>{"b905b397-4874-4ef2-8aef-9012961c533a":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1769/1.0.1769.4352/sharepointonline/icon.png","dataSources":["Banks","Concepts","Moves"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"https://ignaciofebles.sharepoint.com/sites/AppFinanzasPersonales":{"dataSources":{"Banks":{"tableName":"5112f889-523a-4f73-b877-c09ed75dc64a"},"Concepts":{"tableName":"724f8edc-a3c4-4e0d-ba86-ec1e3bfdf1f0"},"Moves":{"tableName":"f688f365-53ec-43c0-a717-8a7cfc16d12d"}}}},"apiTier":"Standard","actions":["providers/PowerPlatform.Governance/Operations/Read","providers/PowerPlatform.Governance/Operations/Write","providers/PowerPlatform.Governance/Operations/Delete"]}}</ConnectionReferences>
+      <ConnectionReferences>{"b905b397-4874-4ef2-8aef-9012961c533a":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1769/1.0.1769.4352/sharepointonline/icon.png","dataSources":["Banks","Concepts","Moves","Things"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"https://ignaciofebles.sharepoint.com/sites/AppFinanzasPersonales":{"dataSources":{"Banks":{"tableName":"5112f889-523a-4f73-b877-c09ed75dc64a"},"Concepts":{"tableName":"724f8edc-a3c4-4e0d-ba86-ec1e3bfdf1f0"},"Moves":{"tableName":"f688f365-53ec-43c0-a717-8a7cfc16d12d"},"Things":{"tableName":"51fde60c-f5b2-4470-82a4-fb45f10156c0"}}}},"apiTier":"Standard","actions":["providers/PowerPlatform.Governance/Operations/Read","providers/PowerPlatform.Governance/Operations/Write","providers/PowerPlatform.Governance/Operations/Delete"]}}</ConnectionReferences>
       <DatabaseReferences>{}</DatabaseReferences>
       <AppComponents>[]</AppComponents>
       <AppComponentDependencies>[]</AppComponentDependencies>

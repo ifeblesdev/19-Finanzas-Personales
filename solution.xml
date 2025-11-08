@@ -1,11 +1,11 @@
-<ImportExportXml version="9.2.25095.163" SolutionPackageVersion="9.2" languagecode="3082" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.25095.163" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.25095.00163">
+<ImportExportXml version="9.2.25101.155" SolutionPackageVersion="9.2" languagecode="3082" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.25101.155" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.25102.00161">
   <SolutionManifest>
     <UniqueName>FinanzasPersonales</UniqueName>
     <LocalizedNames>
       <LocalizedName description="Finanzas Personales" languagecode="3082" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.0.0.3</Version>
+    <Version>1.0.0.5</Version>
     <Managed>0</Managed>
     <Publisher>
       <UniqueName>DefaultPublisherifr</UniqueName>
